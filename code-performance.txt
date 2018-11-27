@@ -1,0 +1,996 @@
+top - 08:10:55 up 46 days,  1:24,  2 users,  load average: 0.08, 0.15, 0.21
+ 7937 root      20   0    8868    836    740 S   0.0  0.0   0:00.00 grep load average\|snakes-ladders
+
+top - 08:10:56 up 46 days,  1:24,  2 users,  load average: 0.07, 0.15, 0.21
+ 7944 root      20   0    8868    832    736 S   0.0  0.0   0:00.00 grep load average\|snakes-ladders
+
+top - 08:10:57 up 46 days,  1:24,  2 users,  load average: 0.07, 0.15, 0.21
+ 7951 root      20   0    8868    884    792 S   0.0  0.0   0:00.00 grep load average\|snakes-ladders
+
+top - 08:10:58 up 46 days,  1:24,  2 users,  load average: 0.07, 0.15, 0.21
+ 7959 root      20   0    8868    776    684 S   0.0  0.0   0:00.00 grep load average\|snakes-ladders
+
+top - 08:10:59 up 46 days,  1:25,  2 users,  load average: 0.07, 0.15, 0.21
+ 7966 root      20   0    8868    824    732 S   0.0  0.0   0:00.00 grep load average\|snakes-ladders
+
+top - 08:11:01 up 46 days,  1:25,  2 users,  load average: 0.06, 0.14, 0.21
+ 7973 root      20   0    8868    832    736 S   0.0  0.0   0:00.00 grep load average\|snakes-ladders
+
+top - 08:11:02 up 46 days,  1:25,  2 users,  load average: 0.06, 0.14, 0.21
+ 8029 root      20   0    8868    796    700 S   0.0  0.0   0:00.00 grep load average\|snakes-ladders
+
+top - 08:11:03 up 46 days,  1:25,  2 users,  load average: 0.06, 0.14, 0.21
+ 8036 root      20   0    8868    792    700 S   0.0  0.0   0:00.00 grep load average\|snakes-ladders
+
+top - 08:11:04 up 46 days,  1:25,  2 users,  load average: 0.06, 0.14, 0.21
+ 8043 root      20   0    8868    788    692 S   0.0  0.0   0:00.00 grep load average\|snakes-ladders
+
+top - 08:11:05 up 46 days,  1:25,  2 users,  load average: 0.06, 0.14, 0.21
+ 8050 root      20   0    8868    888    792 S   0.0  0.0   0:00.00 grep load average\|snakes-ladders
+
+top - 08:11:06 up 46 days,  1:25,  2 users,  load average: 0.06, 0.14, 0.21
+ 8057 root      20   0    8868    828    736 S   0.0  0.0   0:00.00 grep load average\|snakes-ladders
+
+top - 08:11:08 up 46 days,  1:25,  2 users,  load average: 0.06, 0.14, 0.21
+ 8065 root      20   0    8868    776    684 S   0.0  0.0   0:00.00 grep load average\|snakes-ladders
+
+top - 08:11:09 up 46 days,  1:25,  2 users,  load average: 0.06, 0.14, 0.21
+ 8078 root      20   0    8868    784    692 S   0.0  0.0   0:00.00 grep load average\|snakes-ladders
+
+top - 08:11:10 up 46 days,  1:25,  2 users,  load average: 0.05, 0.14, 0.21
+ 8085 root      20   0    8868    776    684 S   0.0  0.0   0:00.00 grep load average\|snakes-ladders
+
+top - 08:11:11 up 46 days,  1:25,  2 users,  load average: 0.05, 0.14, 0.21
+ 8092 root      20   0    8868    780    684 S   0.0  0.0   0:00.00 grep load average\|snakes-ladders
+
+top - 08:11:12 up 46 days,  1:25,  2 users,  load average: 0.05, 0.14, 0.21
+ 8103 root      20   0   73484  49800   5544 R  95.6  0.3   0:00.33 python snakes-ladders.py
+ 8105 root      20   0    8868    780    688 S   0.0  0.0   0:00.00 grep load average\|snakes-ladders
+
+top - 08:11:13 up 46 days,  1:25,  2 users,  load average: 0.05, 0.14, 0.21
+ 8103 root      20   0   89388  65640   5544 R  96.4  0.4   0:01.49 python snakes-ladders.py
+ 8112 root      20   0    8868    800    704 S   0.0  0.0   0:00.00 grep load average\|snakes-ladders
+
+top - 08:11:15 up 46 days,  1:25,  2 users,  load average: 0.05, 0.14, 0.21
+ 8103 root      20   0   89388  65640   5544 R  96.4  0.4   0:02.66 python snakes-ladders.py
+ 8119 root      20   0    8868    792    700 S   0.0  0.0   0:00.00 grep load average\|snakes-ladders
+
+top - 08:11:16 up 46 days,  1:25,  2 users,  load average: 0.13, 0.15, 0.21
+ 8103 root      20   0   89388  65640   5544 R 100.0  0.4   0:03.83 python snakes-ladders.py
+ 8128 root      20   0    8868    808    716 S   0.0  0.0   0:00.00 grep load average\|snakes-ladders
+
+top - 08:11:17 up 46 days,  1:25,  2 users,  load average: 0.13, 0.15, 0.21
+ 8103 root      20   0   89388  65640   5544 R  96.3  0.4   0:05.00 python snakes-ladders.py
+ 8139 root      20   0    8868    804    712 S   0.0  0.0   0:00.00 grep load average\|snakes-ladders
+
+top - 08:11:18 up 46 days,  1:25,  2 users,  load average: 0.13, 0.15, 0.21
+ 8103 root      20   0   89388  65640   5544 R 100.0  0.4   0:06.17 python snakes-ladders.py
+ 8155 root      20   0    8868    828    732 S   0.0  0.0   0:00.00 grep load average\|snakes-ladders
+
+top - 08:11:19 up 46 days,  1:25,  2 users,  load average: 0.13, 0.15, 0.21
+ 8103 root      20   0   89388  65640   5544 R  96.3  0.4   0:07.33 python snakes-ladders.py
+ 8175 root      20   0    8868    772    680 S   0.0  0.0   0:00.00 grep load average\|snakes-ladders
+
+top - 08:11:20 up 46 days,  1:25,  2 users,  load average: 0.20, 0.17, 0.22
+ 8103 root      20   0   89388  65640   5544 R 100.0  0.4   0:08.50 python snakes-ladders.py
+ 8203 root      20   0    8868    940    848 S   0.0  0.0   0:00.00 grep load average\|snakes-ladders
+
+top - 08:11:22 up 46 days,  1:25,  2 users,  load average: 0.20, 0.17, 0.22
+ 8103 root      20   0   89388  65640   5544 R 100.0  0.4   0:09.67 python snakes-ladders.py
+ 8210 root      20   0    8868    784    692 S   0.0  0.0   0:00.00 grep load average\|snakes-ladders
+
+top - 08:11:23 up 46 days,  1:25,  2 users,  load average: 0.20, 0.17, 0.22
+ 8103 root      20   0   89388  65640   5544 R  96.1  0.4   0:10.83 python snakes-ladders.py
+ 8219 root      20   0    8868    820    724 S   0.0  0.0   0:00.00 grep load average\|snakes-ladders
+
+top - 08:11:24 up 46 days,  1:25,  2 users,  load average: 0.20, 0.17, 0.22
+ 8103 root      20   0   89388  65640   5544 R 100.0  0.4   0:12.00 python snakes-ladders.py
+ 8228 root      20   0    8868    788    696 S   0.0  0.0   0:00.00 grep load average\|snakes-ladders
+
+top - 08:11:25 up 46 days,  1:25,  2 users,  load average: 0.27, 0.18, 0.22
+ 8103 root      20   0   89388  65640   5544 R 100.0  0.4   0:13.17 python snakes-ladders.py
+ 8235 root      20   0    8868    940    848 S   0.0  0.0   0:00.00 grep load average\|snakes-ladders
+
+top - 08:11:26 up 46 days,  1:25,  2 users,  load average: 0.27, 0.18, 0.22
+ 8103 root      20   0   89388  65640   5544 R  96.4  0.4   0:14.33 python snakes-ladders.py
+ 8242 root      20   0    8868    776    680 S   0.0  0.0   0:00.00 grep load average\|snakes-ladders
+
+top - 08:11:27 up 46 days,  1:25,  2 users,  load average: 0.27, 0.18, 0.22
+ 8103 root      20   0   89388  65640   5544 R 100.0  0.4   0:15.50 python snakes-ladders.py
+ 8249 root      20   0    8868    824    728 S   0.0  0.0   0:00.00 grep load average\|snakes-ladders
+
+top - 08:11:29 up 46 days,  1:25,  2 users,  load average: 0.27, 0.18, 0.22
+ 8103 root      20   0   89388  65640   5544 R 100.0  0.4   0:16.67 python snakes-ladders.py
+ 8258 root      20   0    8868    792    696 S   0.0  0.0   0:00.00 grep load average\|snakes-ladders
+
+top - 08:11:30 up 46 days,  1:25,  2 users,  load average: 0.27, 0.18, 0.22
+ 8103 root      20   0   89388  65640   5544 R  95.9  0.4   0:17.83 python snakes-ladders.py
+ 8267 root      20   0    8868    800    708 S   0.0  0.0   0:00.00 grep load average\|snakes-ladders
+
+top - 08:11:31 up 46 days,  1:25,  2 users,  load average: 0.32, 0.20, 0.23
+ 8103 root      20   0   89388  65640   5544 R  96.4  0.4   0:19.00 python snakes-ladders.py
+ 8276 root      20   0    8868    780    688 S   0.0  0.0   0:00.00 grep load average\|snakes-ladders
+
+top - 08:11:32 up 46 days,  1:25,  2 users,  load average: 0.32, 0.20, 0.23
+ 8103 root      20   0   89388  65640   5544 R 100.0  0.4   0:20.17 python snakes-ladders.py
+ 8283 root      20   0    8868    780    688 S   0.0  0.0   0:00.00 grep load average\|snakes-ladders
+
+top - 08:11:33 up 46 days,  1:25,  2 users,  load average: 0.32, 0.20, 0.23
+ 8103 root      20   0   89388  65640   5544 R 100.0  0.4   0:21.34 python snakes-ladders.py
+ 8290 root      20   0    8868    780    684 S   0.0  0.0   0:00.00 grep load average\|snakes-ladders
+
+top - 08:11:34 up 46 days,  1:25,  2 users,  load average: 0.32, 0.20, 0.23
+ 8103 root      20   0   89388  65640   5544 R  96.4  0.4   0:22.50 python snakes-ladders.py
+ 8297 root      20   0    8868    792    700 S   0.0  0.0   0:00.00 grep load average\|snakes-ladders
+
+top - 08:11:36 up 46 days,  1:25,  2 users,  load average: 0.38, 0.21, 0.23
+ 8103 root      20   0   89388  65640   5544 R 100.0  0.4   0:23.67 python snakes-ladders.py
+ 8304 root      20   0    8868    916    820 S   0.0  0.0   0:00.00 grep load average\|snakes-ladders
+
+top - 08:11:37 up 46 days,  1:25,  2 users,  load average: 0.38, 0.21, 0.23
+ 8103 root      20   0   89388  65640   5544 R 100.0  0.4   0:24.84 python snakes-ladders.py
+ 8313 root      20   0    8868    784    692 S   0.0  0.0   0:00.00 grep load average\|snakes-ladders
+
+top - 08:11:38 up 46 days,  1:25,  2 users,  load average: 0.38, 0.21, 0.23
+ 8103 root      20   0   89388  65640   5544 R  96.4  0.4   0:26.00 python snakes-ladders.py
+ 8322 root      20   0    8868    824    728 S   0.0  0.0   0:00.00 grep load average\|snakes-ladders
+
+top - 08:11:39 up 46 days,  1:25,  2 users,  load average: 0.38, 0.21, 0.23
+ 8103 root      20   0   89388  65640   5544 R  96.4  0.4   0:27.17 python snakes-ladders.py
+ 8329 root      20   0    8868    764    672 S   0.0  0.0   0:00.00 grep load average\|snakes-ladders
+
+top - 08:11:40 up 46 days,  1:25,  2 users,  load average: 0.43, 0.22, 0.23
+ 8103 root      20   0   89388  65640   5544 R 100.0  0.4   0:28.34 python snakes-ladders.py
+ 8336 root      20   0    8868    912    820 S   0.0  0.0   0:00.00 grep load average\|snakes-ladders
+
+top - 08:11:41 up 46 days,  1:25,  2 users,  load average: 0.43, 0.22, 0.23
+ 8103 root      20   0   89388  65640   5544 R 100.0  0.4   0:29.51 python snakes-ladders.py
+ 8343 root      20   0    8868    944    852 S   0.0  0.0   0:00.00 grep load average\|snakes-ladders
+
+top - 08:11:43 up 46 days,  1:25,  2 users,  load average: 0.43, 0.22, 0.23
+ 8103 root      20   0   89388  65640   5544 R 100.0  0.4   0:30.68 python snakes-ladders.py
+ 8350 root      20   0    8868    760    664 S   0.0  0.0   0:00.00 grep load average\|snakes-ladders
+
+top - 08:11:44 up 46 days,  1:25,  2 users,  load average: 0.43, 0.22, 0.23
+ 8103 root      20   0   89388  65640   5544 R 100.0  0.4   0:31.85 python snakes-ladders.py
+ 8359 root      20   0    8868    804    712 S   0.0  0.0   0:00.00 grep load average\|snakes-ladders
+
+top - 08:11:45 up 46 days,  1:25,  2 users,  load average: 0.47, 0.24, 0.24
+ 8103 root      20   0   89388  65640   5544 R  96.4  0.4   0:33.01 python snakes-ladders.py
+ 8368 root      20   0    8868    776    684 S   0.0  0.0   0:00.00 grep load average\|snakes-ladders
+
+top - 08:11:46 up 46 days,  1:25,  2 users,  load average: 0.47, 0.24, 0.24
+ 8103 root      20   0   89388  65640   5544 R  96.3  0.4   0:34.18 python snakes-ladders.py
+ 8375 root      20   0    8868    792    700 S   0.0  0.0   0:00.00 grep load average\|snakes-ladders
+
+top - 08:11:47 up 46 days,  1:25,  2 users,  load average: 0.47, 0.24, 0.24
+ 8103 root      20   0   89388  65640   5544 R 100.0  0.4   0:35.35 python snakes-ladders.py
+ 8382 root      20   0    8868    940    844 S   0.0  0.0   0:00.00 grep load average\|snakes-ladders
+
+top - 08:11:48 up 46 days,  1:25,  2 users,  load average: 0.47, 0.24, 0.24
+ 8103 root      20   0   89388  65640   5544 R  96.4  0.4   0:36.51 python snakes-ladders.py
+ 8391 root      20   0    8868    764    672 S   0.0  0.0   0:00.00 grep load average\|snakes-ladders
+
+top - 08:11:50 up 46 days,  1:25,  2 users,  load average: 0.47, 0.24, 0.24
+ 8103 root      20   0   89388  65640   5544 R 100.0  0.4   0:37.68 python snakes-ladders.py
+ 8398 root      20   0    8868    792    696 S   0.0  0.0   0:00.00 grep load average\|snakes-ladders
+
+top - 08:11:51 up 46 days,  1:25,  2 users,  load average: 0.52, 0.25, 0.24
+ 8103 root      20   0   89388  65640   5544 R 100.0  0.4   0:38.85 python snakes-ladders.py
+ 8407 root      20   0    8868    780    688 S   0.0  0.0   0:00.00 grep load average\|snakes-ladders
+
+top - 08:11:52 up 46 days,  1:25,  2 users,  load average: 0.52, 0.25, 0.24
+ 8103 root      20   0   89388  65640   5544 R  96.4  0.4   0:40.01 python snakes-ladders.py
+ 8416 root      20   0    8868    784    688 S   0.0  0.0   0:00.00 grep load average\|snakes-ladders
+
+top - 08:11:53 up 46 days,  1:25,  2 users,  load average: 0.52, 0.25, 0.24
+ 8103 root      20   0   89388  65640   5544 R  96.3  0.4   0:41.18 python snakes-ladders.py
+ 8423 root      20   0    8868    788    692 S   0.0  0.0   0:00.00 grep load average\|snakes-ladders
+
+top - 08:11:54 up 46 days,  1:25,  2 users,  load average: 0.52, 0.25, 0.24
+ 8103 root      20   0   89388  65640   5544 R 100.0  0.4   0:42.35 python snakes-ladders.py
+ 8430 root      20   0    8868    780    688 S   0.0  0.0   0:00.00 grep load average\|snakes-ladders
+
+top - 08:11:55 up 46 days,  1:25,  2 users,  load average: 0.56, 0.26, 0.25
+ 8103 root      20   0   89388  65640   5544 R 100.0  0.4   0:43.52 python snakes-ladders.py
+ 8437 root      20   0    8868    792    700 S   0.0  0.0   0:00.00 grep load average\|snakes-ladders
+
+top - 08:11:57 up 46 days,  1:25,  2 users,  load average: 0.56, 0.26, 0.25
+ 8103 root      20   0   89388  65640   5544 R  96.4  0.4   0:44.68 python snakes-ladders.py
+ 8444 root      20   0    8868    800    708 S   0.0  0.0   0:00.00 grep load average\|snakes-ladders
+
+top - 08:11:58 up 46 days,  1:25,  2 users,  load average: 0.56, 0.26, 0.25
+ 8103 root      20   0   89388  65640   5544 R 100.0  0.4   0:45.85 python snakes-ladders.py
+ 8452 root      20   0    8868    920    824 S   0.0  0.0   0:00.00 grep load average\|snakes-ladders
+
+top - 08:11:59 up 46 days,  1:25,  2 users,  load average: 0.56, 0.26, 0.25
+ 8103 root      20   0   89388  65640   5544 R 100.0  0.4   0:47.02 python snakes-ladders.py
+ 8462 root      20   0    8868    820    728 S   0.0  0.0   0:00.00 grep load average\|snakes-ladders
+
+top - 08:12:00 up 46 days,  1:26,  2 users,  load average: 0.59, 0.27, 0.25
+ 8103 root      20   0   89388  65640   5544 R  96.4  0.4   0:48.18 python snakes-ladders.py
+ 8469 root      20   0    8868    836    740 S   0.0  0.0   0:00.00 grep load average\|snakes-ladders
+
+top - 08:12:01 up 46 days,  1:26,  2 users,  load average: 0.59, 0.27, 0.25
+ 8103 root      20   0   89388  65640   5544 R 100.0  0.4   0:49.35 python snakes-ladders.py
+ 8476 root      20   0    8868    944    848 S   0.0  0.0   0:00.00 grep load average\|snakes-ladders
+
+top - 08:12:02 up 46 days,  1:26,  2 users,  load average: 0.59, 0.27, 0.25
+ 8103 root      20   0   89388  65640   5544 R  96.3  0.4   0:50.52 python snakes-ladders.py
+ 8567 root      20   0    8868    940    848 S   0.0  0.0   0:00.00 grep load average\|snakes-ladders
+
+top - 08:12:04 up 46 days,  1:26,  2 users,  load average: 0.59, 0.27, 0.25
+ 8103 root      20   0   89388  65640   5544 R 100.0  0.4   0:51.69 python snakes-ladders.py
+ 8574 root      20   0    8868    944    852 S   0.0  0.0   0:00.00 grep load average\|snakes-ladders
+
+top - 08:12:05 up 46 days,  1:26,  2 users,  load average: 0.59, 0.27, 0.25
+ 8103 root      20   0   89388  65640   5544 R 100.0  0.4   0:52.86 python snakes-ladders.py
+ 8583 root      20   0    8868    772    676 S   0.0  0.0   0:00.00 grep load average\|snakes-ladders
+
+top - 08:12:06 up 46 days,  1:26,  2 users,  load average: 0.62, 0.29, 0.26
+ 8103 root      20   0   89388  65640   5544 R  96.3  0.4   0:54.02 python snakes-ladders.py
+ 8592 root      20   0    8868    776    680 S   0.0  0.0   0:00.00 grep load average\|snakes-ladders
+
+top - 08:12:07 up 46 days,  1:26,  2 users,  load average: 0.62, 0.29, 0.26
+ 8103 root      20   0   89388  65640   5544 R 100.0  0.4   0:55.19 python snakes-ladders.py
+ 8599 root      20   0    8868    784    692 S   0.0  0.0   0:00.00 grep load average\|snakes-ladders
+
+top - 08:12:08 up 46 days,  1:26,  2 users,  load average: 0.62, 0.29, 0.26
+ 8103 root      20   0   89388  65640   5544 R 100.0  0.4   0:56.36 python snakes-ladders.py
+ 8608 root      20   0    8868    776    680 S   0.0  0.0   0:00.00 grep load average\|snakes-ladders
+
+top - 08:12:09 up 46 days,  1:26,  2 users,  load average: 0.62, 0.29, 0.26
+ 8103 root      20   0   89388  65640   5544 R  96.3  0.4   0:57.52 python snakes-ladders.py
+ 8615 root      20   0    8868    784    688 S   0.0  0.0   0:00.00 grep load average\|snakes-ladders
+
+top - 08:12:11 up 46 days,  1:26,  2 users,  load average: 0.65, 0.30, 0.26
+ 8103 root      20   0   89388  65640   5544 R  96.3  0.4   0:58.69 python snakes-ladders.py
+ 8622 root      20   0    8868    884    792 S   0.0  0.0   0:00.00 grep load average\|snakes-ladders
+
+top - 08:12:12 up 46 days,  1:26,  2 users,  load average: 0.65, 0.30, 0.26
+ 8103 root      20   0   89388  65640   5544 R 100.0  0.4   0:59.86 python snakes-ladders.py
+ 8631 root      20   0    8868    788    692 S   0.0  0.0   0:00.00 grep load average\|snakes-ladders
+
+top - 08:12:13 up 46 days,  1:26,  2 users,  load average: 0.65, 0.30, 0.26
+ 8103 root      20   0   89388  65640   5544 R 100.0  0.4   1:01.03 python snakes-ladders.py
+ 8640 root      20   0    8868    808    712 S   0.0  0.0   0:00.00 grep load average\|snakes-ladders
+
+top - 08:12:14 up 46 days,  1:26,  2 users,  load average: 0.65, 0.30, 0.26
+ 8103 root      20   0   89388  65640   5544 R  96.3  0.4   1:02.19 python snakes-ladders.py
+ 8647 root      20   0    8868    836    740 S   0.0  0.0   0:00.00 grep load average\|snakes-ladders
+
+top - 08:12:15 up 46 days,  1:26,  2 users,  load average: 0.68, 0.31, 0.27
+ 8103 root      20   0   89388  65640   5544 R 100.0  0.4   1:03.36 python snakes-ladders.py
+ 8654 root      20   0    8868    824    728 S   0.0  0.0   0:00.00 grep load average\|snakes-ladders
+
+top - 08:12:16 up 46 days,  1:26,  2 users,  load average: 0.68, 0.31, 0.27
+ 8103 root      20   0   89388  65640   5544 R 100.0  0.4   1:04.53 python snakes-ladders.py
+ 8661 root      20   0    8868    944    848 S   0.0  0.0   0:00.00 grep load average\|snakes-ladders
+
+top - 08:12:18 up 46 days,  1:26,  2 users,  load average: 0.68, 0.31, 0.27
+ 8103 root      20   0   89388  65640   5544 R  96.4  0.4   1:05.69 python snakes-ladders.py
+ 8668 root      20   0    8868    860    768 S   0.0  0.0   0:00.00 grep load average\|snakes-ladders
+
+top - 08:12:19 up 46 days,  1:26,  2 users,  load average: 0.68, 0.31, 0.27
+ 8103 root      20   0   89388  65640   5544 R  96.0  0.4   1:06.86 python snakes-ladders.py
+ 8677 root      20   0    8868    776    684 S   0.0  0.0   0:00.00 grep load average\|snakes-ladders
+
+top - 08:12:20 up 46 days,  1:26,  2 users,  load average: 0.71, 0.32, 0.27
+ 8103 root      20   0   89388  65640   5544 R 100.0  0.4   1:08.03 python snakes-ladders.py
+ 8686 root      20   0    8868    824    732 S   0.0  0.0   0:00.00 grep load average\|snakes-ladders
+
+top - 08:12:21 up 46 days,  1:26,  2 users,  load average: 0.71, 0.32, 0.27
+ 8103 root      20   0   89388  65640   5544 R 100.0  0.4   1:09.20 python snakes-ladders.py
+ 8693 root      20   0    8868    944    848 S   0.0  0.0   0:00.00 grep load average\|snakes-ladders
+
+top - 08:12:22 up 46 days,  1:26,  2 users,  load average: 0.71, 0.32, 0.27
+ 8103 root      20   0   89388  65640   5544 R  96.3  0.4   1:10.36 python snakes-ladders.py
+ 8700 root      20   0    8868    772    680 S   0.0  0.0   0:00.00 grep load average\|snakes-ladders
+
+top - 08:12:23 up 46 days,  1:26,  2 users,  load average: 0.71, 0.32, 0.27
+ 8103 root      20   0   89388  65640   5544 R 100.0  0.4   1:11.53 python snakes-ladders.py
+ 8707 root      20   0    8868    828    736 S   0.0  0.0   0:00.00 grep load average\|snakes-ladders
+
+top - 08:12:25 up 46 days,  1:26,  2 users,  load average: 0.71, 0.32, 0.27
+ 8103 root      20   0   89388  65640   5544 R 100.0  0.4   1:12.70 python snakes-ladders.py
+ 8714 root      20   0    8868    796    704 S   0.0  0.0   0:00.00 grep load average\|snakes-ladders
+
+top - 08:12:26 up 46 days,  1:26,  2 users,  load average: 0.73, 0.33, 0.27
+ 8103 root      20   0   89388  65640   5544 R  96.3  0.4   1:13.86 python snakes-ladders.py
+ 8723 root      20   0    8868    780    684 S   0.0  0.0   0:00.00 grep load average\|snakes-ladders
+
+top - 08:12:27 up 46 days,  1:26,  2 users,  load average: 0.73, 0.33, 0.27
+ 8103 root      20   0   89388  65640   5544 R 100.0  0.4   1:15.03 python snakes-ladders.py
+ 8732 root      20   0    8868    780    684 S   0.0  0.0   0:00.00 grep load average\|snakes-ladders
+
+top - 08:12:28 up 46 days,  1:26,  2 users,  load average: 0.73, 0.33, 0.27
+ 8103 root      20   0   89388  65640   5544 R 100.0  0.4   1:16.20 python snakes-ladders.py
+ 8739 root      20   0    8868    780    684 S   0.0  0.0   0:00.00 grep load average\|snakes-ladders
+
+top - 08:12:29 up 46 days,  1:26,  2 users,  load average: 0.73, 0.33, 0.27
+ 8103 root      20   0   89388  65640   5544 R  96.4  0.4   1:17.36 python snakes-ladders.py
+ 8748 root      20   0    8868    784    692 S   0.0  0.0   0:00.00 grep load average\|snakes-ladders
+
+top - 08:12:30 up 46 days,  1:26,  2 users,  load average: 0.75, 0.34, 0.28
+ 8103 root      20   0   89388  65640   5544 R  96.4  0.4   1:18.53 python snakes-ladders.py
+ 8755 root      20   0    8868    788    692 S   0.0  0.0   0:00.00 grep load average\|snakes-ladders
+
+top - 08:12:32 up 46 days,  1:26,  2 users,  load average: 0.75, 0.34, 0.28
+ 8103 root      20   0   89388  65640   5544 R 100.0  0.4   1:19.70 python snakes-ladders.py
+ 8762 root      20   0    8868    764    668 S   0.0  0.0   0:00.00 grep load average\|snakes-ladders
+
+top - 08:12:33 up 46 days,  1:26,  2 users,  load average: 0.75, 0.34, 0.28
+ 8103 root      20   0   89388  65640   5544 R  96.2  0.4   1:20.86 python snakes-ladders.py
+ 8771 root      20   0    8868    948    852 S   0.0  0.0   0:00.00 grep load average\|snakes-ladders
+
+top - 08:12:34 up 46 days,  1:26,  2 users,  load average: 0.75, 0.34, 0.28
+ 8103 root      20   0   89388  65640   5544 R  96.4  0.4   1:22.03 python snakes-ladders.py
+ 8780 root      20   0    8868    768    676 S   0.0  0.0   0:00.00 grep load average\|snakes-ladders
+
+top - 08:12:35 up 46 days,  1:26,  2 users,  load average: 0.77, 0.36, 0.28
+ 8103 root      20   0   89388  65640   5544 R 100.0  0.4   1:23.20 python snakes-ladders.py
+ 8787 root      20   0    8868    772    680 S   0.0  0.0   0:00.00 grep load average\|snakes-ladders
+
+top - 08:12:36 up 46 days,  1:26,  2 users,  load average: 0.77, 0.36, 0.28
+ 8103 root      20   0   89388  65640   5544 R 100.0  0.4   1:24.37 python snakes-ladders.py
+ 8795 root      20   0    8868    792    700 S   0.0  0.0   0:00.00 grep load average\|snakes-ladders
+
+top - 08:12:37 up 46 days,  1:26,  2 users,  load average: 0.77, 0.36, 0.28
+ 8103 root      20   0   89388  65640   5544 R  96.4  0.4   1:25.53 python snakes-ladders.py
+ 8802 root      20   0    8868    780    688 S   0.0  0.0   0:00.00 grep load average\|snakes-ladders
+
+top - 08:12:39 up 46 days,  1:26,  2 users,  load average: 0.77, 0.36, 0.28
+ 8103 root      20   0   89388  65640   5544 R 100.0  0.4   1:26.71 python snakes-ladders.py
+ 8809 root      20   0    8868    928    836 S   0.0  0.0   0:00.00 grep load average\|snakes-ladders
+
+top - 08:12:40 up 46 days,  1:26,  2 users,  load average: 0.77, 0.36, 0.28
+ 8103 root      20   0   89388  65640   5544 R  96.2  0.4   1:27.87 python snakes-ladders.py
+ 8818 root      20   0    8868    796    704 S   0.0  0.0   0:00.00 grep load average\|snakes-ladders
+
+top - 08:12:41 up 46 days,  1:26,  2 users,  load average: 0.79, 0.37, 0.29
+ 8103 root      20   0   89388  65640   5544 R 100.0  0.4   1:29.04 python snakes-ladders.py
+ 8827 root      20   0    8868    824    732 S   0.0  0.0   0:00.00 grep load average\|snakes-ladders
+
+top - 08:12:42 up 46 days,  1:26,  2 users,  load average: 0.79, 0.37, 0.29
+ 8103 root      20   0   89388  65640   5544 R  96.3  0.4   1:30.20 python snakes-ladders.py
+ 8834 root      20   0    8868    764    668 S   0.0  0.0   0:00.00 grep load average\|snakes-ladders
+
+top - 08:12:43 up 46 days,  1:26,  2 users,  load average: 0.79, 0.37, 0.29
+ 8103 root      20   0   89388  65640   5544 R 100.0  0.4   1:31.37 python snakes-ladders.py
+ 8841 root      20   0    8868    772    676 S   0.0  0.0   0:00.00 grep load average\|snakes-ladders
+
+top - 08:12:44 up 46 days,  1:26,  2 users,  load average: 0.79, 0.37, 0.29
+ 8103 root      20   0   89388  65640   5544 R  96.4  0.4   1:32.54 python snakes-ladders.py
+ 8848 root      20   0    8868    764    672 S   0.0  0.0   0:00.00 grep load average\|snakes-ladders
+
+top - 08:12:46 up 46 days,  1:26,  2 users,  load average: 0.81, 0.38, 0.29
+ 8103 root      20   0   89388  65640   5544 R 100.0  0.4   1:33.71 python snakes-ladders.py
+ 8855 root      20   0    8868    796    704 S   0.0  0.0   0:00.00 grep load average\|snakes-ladders
+
+top - 08:12:47 up 46 days,  1:26,  2 users,  load average: 0.81, 0.38, 0.29
+ 8103 root      20   0   89388  65640   5544 R  96.2  0.4   1:34.87 python snakes-ladders.py
+ 8864 root      20   0    8868    796    700 S   0.0  0.0   0:00.00 grep load average\|snakes-ladders
+
+top - 08:12:48 up 46 days,  1:26,  2 users,  load average: 0.81, 0.38, 0.29
+ 8103 root      20   0   89388  65640   5544 R  96.4  0.4   1:36.04 python snakes-ladders.py
+ 8873 root      20   0    8868    776    680 S   0.0  0.0   0:00.00 grep load average\|snakes-ladders
+
+top - 08:12:49 up 46 days,  1:26,  2 users,  load average: 0.81, 0.38, 0.29
+ 8103 root      20   0   89388  65640   5544 R 100.0  0.4   1:37.21 python snakes-ladders.py
+ 8882 root      20   0    8868    780    684 S   0.0  0.0   0:00.00 grep load average\|snakes-ladders
+
+top - 08:12:50 up 46 days,  1:26,  2 users,  load average: 0.82, 0.39, 0.29
+ 8103 root      20   0   89388  65640   5544 R 100.0  0.4   1:38.37 python snakes-ladders.py
+ 8889 root      20   0    8868    776    680 S   0.0  0.0   0:00.00 grep load average\|snakes-ladders
+
+top - 08:12:51 up 46 days,  1:26,  2 users,  load average: 0.82, 0.39, 0.29
+ 8103 root      20   0   89388  65640   5544 R  96.4  0.4   1:39.54 python snakes-ladders.py
+ 8896 root      20   0    8868    820    728 S   0.0  0.0   0:00.00 grep load average\|snakes-ladders
+
+top - 08:12:53 up 46 days,  1:26,  2 users,  load average: 0.82, 0.39, 0.29
+ 8103 root      20   0   89388  65640   5544 R  96.3  0.4   1:40.70 python snakes-ladders.py
+ 8903 root      20   0    8868    820    724 S   0.0  0.0   0:00.00 grep load average\|snakes-ladders
+
+top - 08:12:54 up 46 days,  1:26,  2 users,  load average: 0.82, 0.39, 0.29
+ 8103 root      20   0   89388  65640   5544 R 100.0  0.4   1:41.88 python snakes-ladders.py
+ 8911 root      20   0    8868    796    700 S   0.0  0.0   0:00.00 grep load average\|snakes-ladders
+
+top - 08:12:55 up 46 days,  1:26,  2 users,  load average: 0.84, 0.40, 0.30
+ 8103 root      20   0   89388  65640   5544 R  96.4  0.4   1:43.04 python snakes-ladders.py
+ 8921 root      20   0    8868    828    732 S   0.0  0.0   0:00.00 grep load average\|snakes-ladders
+
+top - 08:12:56 up 46 days,  1:26,  2 users,  load average: 0.84, 0.40, 0.30
+ 8103 root      20   0   89388  65640   5544 R  96.4  0.4   1:44.20 python snakes-ladders.py
+ 8928 root      20   0    8868    788    692 S   0.0  0.0   0:00.00 grep load average\|snakes-ladders
+
+top - 08:12:57 up 46 days,  1:26,  2 users,  load average: 0.84, 0.40, 0.30
+ 8103 root      20   0   89388  65640   5544 R 100.0  0.4   1:45.38 python snakes-ladders.py
+ 8935 root      20   0    8868    776    684 S   0.0  0.0   0:00.00 grep load average\|snakes-ladders
+
+top - 08:12:58 up 46 days,  1:26,  2 users,  load average: 0.84, 0.40, 0.30
+ 8103 root      20   0   89388  65640   5544 R  96.4  0.4   1:46.54 python snakes-ladders.py
+ 8942 root      20   0    8868    944    852 S   0.0  0.0   0:00.00 grep load average\|snakes-ladders
+
+top - 08:13:00 up 46 days,  1:27,  2 users,  load average: 0.84, 0.40, 0.30
+ 8103 root      20   0   89388  65640   5544 R  96.4  0.4   1:47.71 python snakes-ladders.py
+ 8949 root      20   0    8868    776    680 S   0.0  0.0   0:00.00 grep load average\|snakes-ladders
+
+top - 08:13:01 up 46 days,  1:27,  2 users,  load average: 0.85, 0.41, 0.30
+ 8103 root      20   0   89388  65640   5544 R 100.0  0.4   1:48.88 python snakes-ladders.py
+ 8958 root      20   0    8868    888    792 S   0.0  0.0   0:00.00 grep load average\|snakes-ladders
+
+top - 08:13:02 up 46 days,  1:27,  2 users,  load average: 0.85, 0.41, 0.30
+ 8103 root      20   0   89388  65640   5544 R  96.4  0.4   1:50.04 python snakes-ladders.py
+ 9012 root      20   0    8868    932    840 S   0.0  0.0   0:00.00 grep load average\|snakes-ladders
+
+top - 08:13:03 up 46 days,  1:27,  2 users,  load average: 0.85, 0.41, 0.30
+ 8103 root      20   0   89388  65640   5544 R 100.0  0.4   1:51.21 python snakes-ladders.py
+ 9019 root      20   0    8868    776    684 S   0.0  0.0   0:00.00 grep load average\|snakes-ladders
+
+top - 08:13:04 up 46 days,  1:27,  2 users,  load average: 0.85, 0.41, 0.30
+ 8103 root      20   0   89388  65640   5544 R  96.4  0.4   1:52.37 python snakes-ladders.py
+ 9026 root      20   0    8868    944    852 S   0.0  0.0   0:00.00 grep load average\|snakes-ladders
+
+top - 08:13:05 up 46 days,  1:27,  2 users,  load average: 0.86, 0.42, 0.31
+ 8103 root      20   0   89388  65640   5544 R  96.4  0.4   1:53.54 python snakes-ladders.py
+ 9033 root      20   0    8868    788    692 S   0.0  0.0   0:00.00 grep load average\|snakes-ladders
+
+top - 08:13:07 up 46 days,  1:27,  2 users,  load average: 0.86, 0.42, 0.31
+ 8103 root      20   0   89388  65640   5544 R  96.4  0.4   1:54.71 python snakes-ladders.py
+ 9040 root      20   0    8868    764    672 S   0.0  0.0   0:00.00 grep load average\|snakes-ladders
+
+top - 08:13:08 up 46 days,  1:27,  2 users,  load average: 0.86, 0.42, 0.31
+ 8103 root      20   0   89388  65640   5544 R 100.0  0.4   1:55.88 python snakes-ladders.py
+ 9049 root      20   0    8868    796    704 S   0.0  0.0   0:00.00 grep load average\|snakes-ladders
+
+top - 08:13:09 up 46 days,  1:27,  2 users,  load average: 0.86, 0.42, 0.31
+ 8103 root      20   0   89388  65640   5544 R  96.3  0.4   1:57.04 python snakes-ladders.py
+ 9061 root      20   0    8868    796    700 S   0.0  0.0   0:00.00 grep load average\|snakes-ladders
+
+top - 08:13:10 up 46 days,  1:27,  2 users,  load average: 0.88, 0.43, 0.31
+ 8103 root      20   0   89388  65640   5544 R 100.0  0.4   1:58.21 python snakes-ladders.py
+ 9068 root      20   0    8868    800    708 S   0.0  0.0   0:00.00 grep load average\|snakes-ladders
+
+top - 08:13:11 up 46 days,  1:27,  2 users,  load average: 0.88, 0.43, 0.31
+ 8103 root      20   0   89388  65640   5544 R  96.4  0.4   1:59.38 python snakes-ladders.py
+ 9075 root      20   0    8868    784    688 S   0.0  0.0   0:00.00 grep load average\|snakes-ladders
+
+top - 08:13:12 up 46 days,  1:27,  2 users,  load average: 0.88, 0.43, 0.31
+ 8103 root      20   0   89388  65640   5544 R  96.4  0.4   2:00.54 python snakes-ladders.py
+ 9082 root      20   0    8868    780    684 S   0.0  0.0   0:00.00 grep load average\|snakes-ladders
+
+top - 08:13:14 up 46 days,  1:27,  2 users,  load average: 0.88, 0.43, 0.31
+ 8103 root      20   0   89388  65640   5544 R  96.4  0.4   2:01.71 python snakes-ladders.py
+ 9100 root      20   0    8868    824    728 S   0.0  0.0   0:00.00 grep load average\|snakes-ladders
+
+top - 08:13:15 up 46 days,  1:27,  2 users,  load average: 0.88, 0.43, 0.31
+ 8103 root      20   0   89388  65640   5544 R  96.3  0.4   2:02.88 python snakes-ladders.py
+ 9119 root      20   0    8868    772    680 S   0.0  0.0   0:00.00 grep load average\|snakes-ladders
+
+top - 08:13:16 up 46 days,  1:27,  2 users,  load average: 0.89, 0.44, 0.31
+ 8103 root      20   0   89388  65640   5544 R 100.0  0.4   2:04.05 python snakes-ladders.py
+ 9140 root      20   0    8868    804    708 S   0.0  0.0   0:00.00 grep load average\|snakes-ladders
+
+top - 08:13:17 up 46 days,  1:27,  2 users,  load average: 0.89, 0.44, 0.31
+ 8103 root      20   0   89388  65640   5544 R 100.0  0.4   2:05.22 python snakes-ladders.py
+ 9159 root      20   0    8868    828    732 S   0.0  0.0   0:00.00 grep load average\|snakes-ladders
+
+top - 08:13:18 up 46 days,  1:27,  2 users,  load average: 0.89, 0.44, 0.31
+ 8103 root      20   0   89388  65640   5544 R 100.0  0.4   2:06.38 python snakes-ladders.py
+ 9166 root      20   0    8868    776    680 S   0.0  0.0   0:00.00 grep load average\|snakes-ladders
+
+top - 08:13:19 up 46 days,  1:27,  2 users,  load average: 0.89, 0.44, 0.31
+ 8103 root      20   0   89388  65640   5544 R  96.4  0.4   2:07.55 python snakes-ladders.py
+ 9174 root      20   0    8868    836    740 S   0.0  0.0   0:00.00 grep load average\|snakes-ladders
+
+top - 08:13:21 up 46 days,  1:27,  2 users,  load average: 0.89, 0.45, 0.32
+ 8103 root      20   0   89388  65640   5544 R 100.0  0.4   2:08.72 python snakes-ladders.py
+ 9181 root      20   0    8868    816    724 S   0.0  0.0   0:00.00 grep load average\|snakes-ladders
+
+top - 08:13:22 up 46 days,  1:27,  2 users,  load average: 0.89, 0.45, 0.32
+ 8103 root      20   0   89388  65640   5544 R  96.1  0.4   2:09.88 python snakes-ladders.py
+ 9189 root      20   0    8868    796    700 S   0.0  0.0   0:00.00 grep load average\|snakes-ladders
+
+top - 08:13:23 up 46 days,  1:27,  2 users,  load average: 0.89, 0.45, 0.32
+ 8103 root      20   0   89388  65640   5544 R 100.0  0.4   2:11.05 python snakes-ladders.py
+ 9199 root      20   0    8868    788    692 S   0.0  0.0   0:00.00 grep load average\|snakes-ladders
+
+top - 08:13:24 up 46 days,  1:27,  2 users,  load average: 0.89, 0.45, 0.32
+ 8103 root      20   0   89388  65640   5544 R  96.4  0.4   2:12.21 python snakes-ladders.py
+ 9206 root      20   0    8868    828    732 S   0.0  0.0   0:00.00 grep load average\|snakes-ladders
+
+top - 08:13:25 up 46 days,  1:27,  2 users,  load average: 0.90, 0.46, 0.32
+ 8103 root      20   0   89388  65640   5544 R 100.0  0.4   2:13.39 python snakes-ladders.py
+ 9213 root      20   0    8868    772    680 S   0.0  0.0   0:00.00 grep load average\|snakes-ladders
+
+top - 08:13:26 up 46 days,  1:27,  2 users,  load average: 0.90, 0.46, 0.32
+ 8103 root      20   0   89388  65640   5544 R 100.0  0.4   2:14.56 python snakes-ladders.py
+ 9220 root      20   0    8868    804    708 S   0.0  0.0   0:00.00 grep load average\|snakes-ladders
+
+top - 08:13:28 up 46 days,  1:27,  2 users,  load average: 0.90, 0.46, 0.32
+ 8103 root      20   0   89388  65640   5544 R 100.0  0.4   2:15.72 python snakes-ladders.py
+ 9227 root      20   0    8868    828    736 S   0.0  0.0   0:00.00 grep load average\|snakes-ladders
+
+top - 08:13:29 up 46 days,  1:27,  2 users,  load average: 0.90, 0.46, 0.32
+ 8103 root      20   0   89388  65640   5544 R  96.2  0.4   2:16.88 python snakes-ladders.py
+ 9237 root      20   0    8868    784    688 S   0.0  0.0   0:00.00 grep load average\|snakes-ladders
+
+top - 08:13:30 up 46 days,  1:27,  2 users,  load average: 0.91, 0.47, 0.32
+ 8103 root      20   0   89388  65640   5544 R  96.3  0.4   2:18.05 python snakes-ladders.py
+ 9247 root      20   0    8868    896    800 S   0.0  0.0   0:00.00 grep load average\|snakes-ladders
+
+top - 08:13:31 up 46 days,  1:27,  2 users,  load average: 0.91, 0.47, 0.32
+ 8103 root      20   0   89388  65640   5544 R  96.4  0.4   2:19.22 python snakes-ladders.py
+ 9254 root      20   0    8868    836    740 S   0.0  0.0   0:00.00 grep load average\|snakes-ladders
+
+top - 08:13:32 up 46 days,  1:27,  2 users,  load average: 0.91, 0.47, 0.32
+ 8103 root      20   0   89388  65640   5544 R  96.4  0.4   2:20.38 python snakes-ladders.py
+ 9261 root      20   0    8868    836    740 S   0.0  0.0   0:00.00 grep load average\|snakes-ladders
+
+top - 08:13:33 up 46 days,  1:27,  2 users,  load average: 0.91, 0.47, 0.32
+ 8103 root      20   0   89388  65640   5544 R  96.4  0.4   2:21.55 python snakes-ladders.py
+ 9268 root      20   0    8868    832    736 S   0.0  0.0   0:00.00 grep load average\|snakes-ladders
+
+top - 08:13:35 up 46 days,  1:27,  2 users,  load average: 0.91, 0.47, 0.32
+ 8103 root      20   0   89388  65640   5544 R  96.3  0.4   2:22.72 python snakes-ladders.py
+ 9275 root      20   0    8868    808    712 S   0.0  0.0   0:00.00 grep load average\|snakes-ladders
+
+top - 08:13:36 up 46 days,  1:27,  2 users,  load average: 0.92, 0.48, 0.33
+ 8103 root      20   0   89388  65640   5544 R  96.3  0.4   2:23.89 python snakes-ladders.py
+ 9283 root      20   0    8868    776    680 S   0.0  0.0   0:00.00 grep load average\|snakes-ladders
+
+top - 08:13:37 up 46 days,  1:27,  2 users,  load average: 0.92, 0.48, 0.33
+ 8103 root      20   0   89388  65640   5544 R  96.4  0.4   2:25.05 python snakes-ladders.py
+ 9293 root      20   0    8868    824    732 S   0.0  0.0   0:00.00 grep load average\|snakes-ladders
+
+top - 08:13:38 up 46 days,  1:27,  2 users,  load average: 0.92, 0.48, 0.33
+ 8103 root      20   0   89388  65640   5544 R 100.0  0.4   2:26.22 python snakes-ladders.py
+ 9300 root      20   0    8868    752    660 S   0.0  0.0   0:00.00 grep load average\|snakes-ladders
+
+top - 08:13:39 up 46 days,  1:27,  2 users,  load average: 0.92, 0.48, 0.33
+ 8103 root      20   0   89388  65640   5544 R  96.2  0.4   2:27.39 python snakes-ladders.py
+ 9307 root      20   0    8868    800    704 S   0.0  0.0   0:00.00 grep load average\|snakes-ladders
+
+top - 08:13:40 up 46 days,  1:27,  2 users,  load average: 0.93, 0.48, 0.33
+ 8103 root      20   0   89388  65640   5544 R  96.4  0.4   2:28.55 python snakes-ladders.py
+ 9314 root      20   0    8868    784    692 S   0.0  0.0   0:00.00 grep load average\|snakes-ladders
+
+top - 08:13:42 up 46 days,  1:27,  2 users,  load average: 0.93, 0.48, 0.33
+ 8103 root      20   0   89388  65640   5544 R 100.0  0.4   2:29.73 python snakes-ladders.py
+ 9321 root      20   0    8868    872    780 S   0.0  0.0   0:00.00 grep load average\|snakes-ladders
+
+top - 08:13:43 up 46 days,  1:27,  2 users,  load average: 0.93, 0.48, 0.33
+ 8103 root      20   0   89388  65640   5544 R 100.0  0.4   2:30.89 python snakes-ladders.py
+ 9329 root      20   0    8868    824    732 S   0.0  0.0   0:00.00 grep load average\|snakes-ladders
+
+top - 08:13:44 up 46 days,  1:27,  2 users,  load average: 0.93, 0.48, 0.33
+ 8103 root      20   0   89388  65640   5544 R 100.0  0.4   2:32.06 python snakes-ladders.py
+ 9339 root      20   0    8868    776    680 S   0.0  0.0   0:00.00 grep load average\|snakes-ladders
+
+top - 08:13:45 up 46 days,  1:27,  2 users,  load average: 0.93, 0.49, 0.34
+ 8103 root      20   0   89388  65640   5544 R 100.0  0.4   2:33.23 python snakes-ladders.py
+ 9346 root      20   0    8868    944    848 S   0.0  0.0   0:00.00 grep load average\|snakes-ladders
+
+top - 08:13:46 up 46 days,  1:27,  2 users,  load average: 0.93, 0.49, 0.34
+ 8103 root      20   0   89388  65640   5544 R  96.4  0.4   2:34.39 python snakes-ladders.py
+ 9353 root      20   0    8868    832    736 S   0.0  0.0   0:00.00 grep load average\|snakes-ladders
+
+top - 08:13:47 up 46 days,  1:27,  2 users,  load average: 0.93, 0.49, 0.34
+ 8103 root      20   0   89388  65640   5544 R 100.0  0.4   2:35.56 python snakes-ladders.py
+ 9360 root      20   0    8868    768    676 S   0.0  0.0   0:00.00 grep load average\|snakes-ladders
+
+top - 08:13:49 up 46 days,  1:27,  2 users,  load average: 0.93, 0.49, 0.34
+ 8103 root      20   0   89388  65640   5544 R 100.0  0.4   2:36.73 python snakes-ladders.py
+ 9369 root      20   0    8868    792    700 S   0.0  0.0   0:00.00 grep load average\|snakes-ladders
+
+top - 08:13:50 up 46 days,  1:27,  2 users,  load average: 0.93, 0.49, 0.34
+ 8103 root      20   0   89388  65640   5544 R  96.2  0.4   2:37.89 python snakes-ladders.py
+ 9377 root      20   0    8868    780    684 S   0.0  0.0   0:00.00 grep load average\|snakes-ladders
+
+top - 08:13:51 up 46 days,  1:27,  2 users,  load average: 0.94, 0.50, 0.34
+ 8103 root      20   0   89388  65640   5544 R 100.0  0.4   2:39.06 python snakes-ladders.py
+ 9387 root      20   0    8868    780    684 S   0.0  0.0   0:00.00 grep load average\|snakes-ladders
+
+top - 08:13:52 up 46 days,  1:27,  2 users,  load average: 0.94, 0.50, 0.34
+ 8103 root      20   0   89388  65640   5544 R  96.4  0.4   2:40.22 python snakes-ladders.py
+ 9394 root      20   0    8868    796    700 S   0.0  0.0   0:00.00 grep load average\|snakes-ladders
+
+top - 08:13:53 up 46 days,  1:27,  2 users,  load average: 0.94, 0.50, 0.34
+ 8103 root      20   0   89388  65640   5544 R 100.0  0.4   2:41.40 python snakes-ladders.py
+ 9401 root      20   0    8868    768    672 S   0.0  0.0   0:00.00 grep load average\|snakes-ladders
+
+top - 08:13:54 up 46 days,  1:27,  2 users,  load average: 0.94, 0.50, 0.34
+ 8103 root      20   0   89388  65640   5544 R  96.4  0.4   2:42.56 python snakes-ladders.py
+ 9408 root      20   0    8868    780    688 S   0.0  0.0   0:00.00 grep load average\|snakes-ladders
+
+top - 08:13:56 up 46 days,  1:27,  2 users,  load average: 0.94, 0.51, 0.34
+ 8103 root      20   0   89388  65640   5544 R 100.0  0.4   2:43.73 python snakes-ladders.py
+ 9415 root      20   0    8868    776    684 S   0.0  0.0   0:00.00 grep load average\|snakes-ladders
+
+top - 08:13:57 up 46 days,  1:27,  2 users,  load average: 0.94, 0.51, 0.34
+ 8103 root      20   0   89388  65640   5544 R 100.0  0.4   2:44.90 python snakes-ladders.py
+ 9423 root      20   0    8868    772    680 S   0.0  0.0   0:00.00 grep load average\|snakes-ladders
+
+top - 08:13:58 up 46 days,  1:27,  2 users,  load average: 0.94, 0.51, 0.34
+ 8103 root      20   0   89388  65640   5544 R  96.4  0.4   2:46.06 python snakes-ladders.py
+ 9433 root      20   0    8868    940    848 S   0.0  0.0   0:00.00 grep load average\|snakes-ladders
+
+top - 08:13:59 up 46 days,  1:27,  2 users,  load average: 0.94, 0.51, 0.34
+ 8103 root      20   0   89388  65640   5544 R  96.4  0.4   2:47.23 python snakes-ladders.py
+ 9440 root      20   0    8868    784    688 S   0.0  0.0   0:00.00 grep load average\|snakes-ladders
+
+top - 08:14:00 up 46 days,  1:28,  2 users,  load average: 0.95, 0.52, 0.35
+ 8103 root      20   0   89388  65640   5544 R 100.0  0.4   2:48.40 python snakes-ladders.py
+ 9448 root      20   0    8868    772    680 S   0.0  0.0   0:00.00 grep load average\|snakes-ladders
+
+top - 08:14:01 up 46 days,  1:28,  2 users,  load average: 0.95, 0.52, 0.35
+ 8103 root      20   0   89388  65640   5544 R  96.4  0.4   2:49.56 python snakes-ladders.py
+ 9455 root      20   0    8868    792    700 S   0.0  0.0   0:00.00 grep load average\|snakes-ladders
+
+top - 08:14:03 up 46 days,  1:28,  2 users,  load average: 0.95, 0.52, 0.35
+ 8103 root      20   0   89388  65640   5544 R 100.0  0.4   2:50.73 python snakes-ladders.py
+ 9546 root      20   0    8868    800    704 S   0.0  0.0   0:00.00 grep load average\|snakes-ladders
+
+top - 08:14:04 up 46 days,  1:28,  2 users,  load average: 0.95, 0.52, 0.35
+ 8103 root      20   0   89388  65640   5544 R 100.0  0.4   2:51.90 python snakes-ladders.py
+ 9554 root      20   0    8868    940    844 S   0.0  0.0   0:00.00 grep load average\|snakes-ladders
+
+top - 08:14:05 up 46 days,  1:28,  2 users,  load average: 0.95, 0.53, 0.35
+ 8103 root      20   0   89388  65640   5544 R  96.3  0.4   2:53.06 python snakes-ladders.py
+ 9564 root      20   0    8868    808    712 S   0.0  0.0   0:00.00 grep load average\|snakes-ladders
+
+top - 08:14:06 up 46 days,  1:28,  2 users,  load average: 0.95, 0.53, 0.35
+ 8103 root      20   0   89388  65640   5544 R 100.0  0.4   2:54.23 python snakes-ladders.py
+ 9571 root      20   0    8868    784    688 S   0.0  0.0   0:00.00 grep load average\|snakes-ladders
+
+top - 08:14:07 up 46 days,  1:28,  2 users,  load average: 0.95, 0.53, 0.35
+ 8103 root      20   0   89388  65640   5544 R 100.0  0.4   2:55.40 python snakes-ladders.py
+ 9578 root      20   0    8868    776    684 S   0.0  0.0   0:00.00 grep load average\|snakes-ladders
+
+top - 08:14:08 up 46 days,  1:28,  2 users,  load average: 0.95, 0.53, 0.35
+ 8103 root      20   0   89388  65640   5544 R  96.4  0.4   2:56.56 python snakes-ladders.py
+ 9587 root      20   0    8868    796    700 S   0.0  0.0   0:00.00 grep load average\|snakes-ladders
+
+top - 08:14:10 up 46 days,  1:28,  2 users,  load average: 0.95, 0.53, 0.35
+ 8103 root      20   0   89388  65640   5544 R  96.4  0.4   2:57.73 python snakes-ladders.py
+ 9594 root      20   0    8868    752    660 S   0.0  0.0   0:00.00 grep load average\|snakes-ladders
+
+top - 08:14:11 up 46 days,  1:28,  2 users,  load average: 0.96, 0.54, 0.36
+ 8103 root      20   0   89388  65640   5544 R 100.0  0.4   2:58.90 python snakes-ladders.py
+ 9602 root      20   0    8868    732    640 S   0.0  0.0   0:00.00 grep load average\|snakes-ladders
+
+top - 08:14:12 up 46 days,  1:28,  2 users,  load average: 0.96, 0.54, 0.36
+ 8103 root      20   0   89388  65640   5544 R 100.0  0.4   3:00.07 python snakes-ladders.py
+ 9612 root      20   0    8868    772    676 S   0.0  0.0   0:00.00 grep load average\|snakes-ladders
+
+top - 08:14:13 up 46 days,  1:28,  2 users,  load average: 0.96, 0.54, 0.36
+ 8103 root      20   0   89388  65640   5544 R  96.3  0.4   3:01.23 python snakes-ladders.py
+ 9619 root      20   0    8868    780    688 S   0.0  0.0   0:00.00 grep load average\|snakes-ladders
+
+top - 08:14:14 up 46 days,  1:28,  2 users,  load average: 0.96, 0.54, 0.36
+ 8103 root      20   0   89388  65640   5544 R  96.4  0.4   3:02.40 python snakes-ladders.py
+ 9627 root      20   0    8868    764    672 S   0.0  0.0   0:00.00 grep load average\|snakes-ladders
+
+top - 08:14:15 up 46 days,  1:28,  2 users,  load average: 0.96, 0.54, 0.36
+ 8103 root      20   0   89388  65640   5544 R 100.0  0.4   3:03.57 python snakes-ladders.py
+ 9635 root      20   0    8868    940    848 S   0.0  0.0   0:00.00 grep load average\|snakes-ladders
+
+top - 08:14:17 up 46 days,  1:28,  2 users,  load average: 0.96, 0.54, 0.36
+ 8103 root      20   0   89388  65640   5544 R  96.3  0.4   3:04.73 python snakes-ladders.py
+ 9644 root      20   0    8868    916    824 S   0.0  0.0   0:00.00 grep load average\|snakes-ladders
+
+top - 08:14:18 up 46 days,  1:28,  2 users,  load average: 0.96, 0.54, 0.36
+ 8103 root      20   0   89388  65640   5544 R  96.2  0.4   3:05.90 python snakes-ladders.py
+ 9653 root      20   0    8868    884    792 S   0.0  0.0   0:00.00 grep load average\|snakes-ladders
+
+top - 08:14:19 up 46 days,  1:28,  2 users,  load average: 0.96, 0.54, 0.36
+ 8103 root      20   0   89388  65640   5544 R 100.0  0.4   3:07.07 python snakes-ladders.py
+ 9663 root      20   0    8868    948    852 S   0.0  0.0   0:00.00 grep load average\|snakes-ladders
+
+top - 08:14:20 up 46 days,  1:28,  2 users,  load average: 0.96, 0.55, 0.36
+ 8103 root      20   0   89388  65640   5544 R 100.0  0.4   3:08.24 python snakes-ladders.py
+ 9670 root      20   0    8868    920    828 S   0.0  0.0   0:00.00 grep load average\|snakes-ladders
+
+top - 08:14:21 up 46 days,  1:28,  2 users,  load average: 0.96, 0.55, 0.36
+ 8103 root      20   0   89388  65640   5544 R  96.4  0.4   3:09.40 python snakes-ladders.py
+ 9677 root      20   0    8868    776    684 S   0.0  0.0   0:00.00 grep load average\|snakes-ladders
+
+top - 08:14:22 up 46 days,  1:28,  2 users,  load average: 0.96, 0.55, 0.36
+ 8103 root      20   0   89388  65640   5544 R  96.2  0.4   3:10.57 python snakes-ladders.py
+ 9684 root      20   0    8868    804    712 S   0.0  0.0   0:00.00 grep load average\|snakes-ladders
+
+top - 08:14:24 up 46 days,  1:28,  2 users,  load average: 0.96, 0.55, 0.36
+ 8103 root      20   0   89388  65640   5544 R 100.0  0.4   3:11.74 python snakes-ladders.py
+ 9691 root      20   0    8868    776    680 S   0.0  0.0   0:00.00 grep load average\|snakes-ladders
+
+top - 08:14:25 up 46 days,  1:28,  2 users,  load average: 0.96, 0.55, 0.36
+ 8103 root      20   0   89388  65640   5544 R 100.0  0.4   3:12.91 python snakes-ladders.py
+ 9700 root      20   0    8868    776    680 S   0.0  0.0   0:00.00 grep load average\|snakes-ladders
+
+top - 08:14:26 up 46 days,  1:28,  2 users,  load average: 0.97, 0.56, 0.37
+ 8103 root      20   0   89388  65640   5544 R  96.3  0.4   3:14.07 python snakes-ladders.py
+ 9710 root      20   0    8868    832    736 S   0.0  0.0   0:00.00 grep load average\|snakes-ladders
+
+top - 08:14:27 up 46 days,  1:28,  2 users,  load average: 0.97, 0.56, 0.37
+ 8103 root      20   0   89388  65640   5544 R  96.4  0.4   3:15.24 python snakes-ladders.py
+ 9718 root      20   0    8868    780    688 S   0.0  0.0   0:00.00 grep load average\|snakes-ladders
+
+top - 08:14:28 up 46 days,  1:28,  2 users,  load average: 0.97, 0.56, 0.37
+ 8103 root      20   0   89388  65640   5544 R 100.0  0.4   3:16.41 python snakes-ladders.py
+ 9725 root      20   0    8868    824    728 S   0.0  0.0   0:00.00 grep load average\|snakes-ladders
+
+top - 08:14:29 up 46 days,  1:28,  2 users,  load average: 0.97, 0.56, 0.37
+ 8103 root      20   0   89388  65640   5544 R 100.0  0.4   3:17.58 python snakes-ladders.py
+ 9734 root      20   0    8868    912    816 S   0.0  0.0   0:00.00 grep load average\|snakes-ladders
+
+top - 08:14:31 up 46 days,  1:28,  2 users,  load average: 0.97, 0.57, 0.37
+ 8103 root      20   0   89388  65640   5544 R  96.4  0.4   3:18.74 python snakes-ladders.py
+ 9741 root      20   0    8868    940    844 S   0.0  0.0   0:00.00 grep load average\|snakes-ladders
+
+top - 08:14:32 up 46 days,  1:28,  2 users,  load average: 0.97, 0.57, 0.37
+ 8103 root      20   0   89388  65640   5544 R 100.0  0.4   3:19.91 python snakes-ladders.py
+ 9751 root      20   0    8868    760    668 S   0.0  0.0   0:00.00 grep load average\|snakes-ladders
+
+top - 08:14:33 up 46 days,  1:28,  2 users,  load average: 0.97, 0.57, 0.37
+ 8103 root      20   0   89388  65640   5544 R 100.0  0.4   3:21.08 python snakes-ladders.py
+ 9760 root      20   0    8868    764    668 S   0.0  0.0   0:00.00 grep load average\|snakes-ladders
+
+top - 08:14:34 up 46 days,  1:28,  2 users,  load average: 0.97, 0.57, 0.37
+ 8103 root      20   0   89388  65640   5544 R 100.0  0.4   3:22.25 python snakes-ladders.py
+ 9767 root      20   0    8868    764    672 S   0.0  0.0   0:00.00 grep load average\|snakes-ladders
+
+top - 08:14:35 up 46 days,  1:28,  2 users,  load average: 0.97, 0.57, 0.37
+ 8103 root      20   0   89388  65640   5544 R  96.3  0.4   3:23.41 python snakes-ladders.py
+ 9774 root      20   0    8868    920    828 S   0.0  0.0   0:00.00 grep load average\|snakes-ladders
+
+top - 08:14:36 up 46 days,  1:28,  2 users,  load average: 0.97, 0.57, 0.37
+ 8103 root      20   0   89388  65640   5544 R 100.0  0.4   3:24.58 python snakes-ladders.py
+ 9781 root      20   0    8868    808    716 S   0.0  0.0   0:00.00 grep load average\|snakes-ladders
+
+top - 08:14:38 up 46 days,  1:28,  2 users,  load average: 0.97, 0.57, 0.37
+ 8103 root      20   0   89388  65640   5544 R 100.0  0.4   3:25.76 python snakes-ladders.py
+ 9788 root      20   0    8868    772    680 S   0.0  0.0   0:00.00 grep load average\|snakes-ladders
+
+top - 08:14:39 up 46 days,  1:28,  2 users,  load average: 0.97, 0.57, 0.37
+ 8103 root      20   0   89388  65640   5544 R  96.2  0.4   3:26.92 python snakes-ladders.py
+ 9797 root      20   0    8868    940    848 S   0.0  0.0   0:00.00 grep load average\|snakes-ladders
+
+top - 08:14:40 up 46 days,  1:28,  2 users,  load average: 0.97, 0.58, 0.38
+ 8103 root      20   0   89388  65640   5544 R  96.3  0.4   3:28.09 python snakes-ladders.py
+ 9806 root      20   0    8868    820    728 S   0.0  0.0   0:00.00 grep load average\|snakes-ladders
+
+top - 08:14:41 up 46 days,  1:28,  2 users,  load average: 0.97, 0.58, 0.38
+ 8103 root      20   0   89388  65640   5544 R 100.0  0.4   3:29.26 python snakes-ladders.py
+ 9813 root      20   0    8868    788    692 S   0.0  0.0   0:00.00 grep load average\|snakes-ladders
+
+top - 08:14:42 up 46 days,  1:28,  2 users,  load average: 0.97, 0.58, 0.38
+ 8103 root      20   0   89388  65640   5544 R  96.3  0.4   3:30.42 python snakes-ladders.py
+ 9820 root      20   0    8868    772    680 S   0.0  0.0   0:00.00 grep load average\|snakes-ladders
+
+top - 08:14:43 up 46 days,  1:28,  2 users,  load average: 0.97, 0.58, 0.38
+ 8103 root      20   0   89388  65640   5544 R  96.4  0.4   3:31.59 python snakes-ladders.py
+ 9827 root      20   0    8868    804    708 S   0.0  0.0   0:00.00 grep load average\|snakes-ladders
+
+top - 08:14:45 up 46 days,  1:28,  2 users,  load average: 0.97, 0.58, 0.38
+ 8103 root      20   0   89388  65640   5544 R 100.0  0.4   3:32.76 python snakes-ladders.py
+ 9834 root      20   0    8868    944    848 S   0.0  0.0   0:00.00 grep load average\|snakes-ladders
+
+top - 08:14:46 up 46 days,  1:28,  2 users,  load average: 0.98, 0.59, 0.38
+ 8103 root      20   0   89388  65640   5544 R 100.0  0.4   3:33.93 python snakes-ladders.py
+ 9844 root      20   0    8868    768    676 S   0.0  0.0   0:00.00 grep load average\|snakes-ladders
+
+top - 08:14:47 up 46 days,  1:28,  2 users,  load average: 0.98, 0.59, 0.38
+ 8103 root      20   0   89388  65640   5544 R  96.3  0.4   3:35.09 python snakes-ladders.py
+ 9852 root      20   0    8868    788    692 S   0.0  0.0   0:00.00 grep load average\|snakes-ladders
+
+top - 08:14:48 up 46 days,  1:28,  2 users,  load average: 0.98, 0.59, 0.38
+ 8103 root      20   0   89388  65640   5544 R  96.3  0.4   3:36.26 python snakes-ladders.py
+ 9859 root      20   0    8868    812    720 S   0.0  0.0   0:00.00 grep load average\|snakes-ladders
+
+top - 08:14:49 up 46 days,  1:28,  2 users,  load average: 0.98, 0.59, 0.38
+ 8103 root      20   0   89388  65640   5544 R 100.0  0.4   3:37.43 python snakes-ladders.py
+ 9868 root      20   0    8868    800    708 S   0.0  0.0   0:00.00 grep load average\|snakes-ladders
+
+top - 08:14:50 up 46 days,  1:28,  2 users,  load average: 0.98, 0.60, 0.38
+ 8103 root      20   0   89388  65640   5544 R  96.4  0.4   3:38.59 python snakes-ladders.py
+ 9875 root      20   0    8868    940    848 S   0.0  0.0   0:00.00 grep load average\|snakes-ladders
+
+top - 08:14:52 up 46 days,  1:28,  2 users,  load average: 0.98, 0.60, 0.38
+ 8103 root      20   0   89388  65640   5544 R  96.4  0.4   3:39.76 python snakes-ladders.py
+ 9882 root      20   0    8868    796    700 S   0.0  0.0   0:00.00 grep load average\|snakes-ladders
+
+top - 08:14:53 up 46 days,  1:28,  2 users,  load average: 0.98, 0.60, 0.38
+ 8103 root      20   0   89388  65640   5544 R 100.0  0.4   3:40.93 python snakes-ladders.py
+ 9892 root      20   0    8868    780    684 S   0.0  0.0   0:00.00 grep load average\|snakes-ladders
+
+top - 08:14:54 up 46 days,  1:28,  2 users,  load average: 0.98, 0.60, 0.38
+ 8103 root      20   0   89388  65640   5544 R 100.0  0.4   3:42.10 python snakes-ladders.py
+ 9900 root      20   0    8868    832    736 S   0.0  0.0   0:00.00 grep load average\|snakes-ladders
+
+top - 08:14:55 up 46 days,  1:28,  2 users,  load average: 0.98, 0.60, 0.39
+ 8103 root      20   0   89388  65640   5544 R  96.3  0.4   3:43.26 python snakes-ladders.py
+ 9907 root      20   0    8868    796    700 S   0.0  0.0   0:00.00 grep load average\|snakes-ladders
+
+top - 08:14:56 up 46 days,  1:28,  2 users,  load average: 0.98, 0.60, 0.39
+ 8103 root      20   0   89388  65640   5544 R  96.3  0.4   3:44.43 python snakes-ladders.py
+ 9914 root      20   0    8868    836    740 S   0.0  0.0   0:00.00 grep load average\|snakes-ladders
+
+top - 08:14:57 up 46 days,  1:28,  2 users,  load average: 0.98, 0.60, 0.39
+ 8103 root      20   0   89388  65640   5544 R 100.0  0.4   3:45.60 python snakes-ladders.py
+ 9921 root      20   0    8868    784    688 S   0.0  0.0   0:00.00 grep load average\|snakes-ladders
+
+top - 08:14:59 up 46 days,  1:28,  2 users,  load average: 0.98, 0.60, 0.39
+ 8103 root      20   0   89388  65640   5544 R  96.4  0.4   3:46.76 python snakes-ladders.py
+ 9928 root      20   0    8868    792    700 S   0.0  0.0   0:00.00 grep load average\|snakes-ladders
+
+top - 08:15:00 up 46 days,  1:29,  2 users,  load average: 0.98, 0.60, 0.39
+ 8103 root      20   0   89388  65640   5544 R  96.3  0.4   3:47.93 python snakes-ladders.py
+ 9939 root      20   0    8868    788    692 S   0.0  0.0   0:00.00 grep load average\|snakes-ladders
+
+top - 08:15:01 up 46 days,  1:29,  2 users,  load average: 0.98, 0.61, 0.39
+ 8103 root      20   0   89388  65640   5544 R 100.0  0.4   3:49.10 python snakes-ladders.py
+ 9947 root      20   0    8868    940    848 S   0.0  0.0   0:00.00 grep load average\|snakes-ladders
+
+top - 08:15:02 up 46 days,  1:29,  2 users,  load average: 0.98, 0.61, 0.39
+ 8103 root      20   0   89388  65640   5544 R 100.0  0.4   3:50.26 python snakes-ladders.py
+10079 root      20   0    8868    772    680 S   0.0  0.0   0:00.00 grep load average\|snakes-ladders
+
+top - 08:15:03 up 46 days,  1:29,  2 users,  load average: 0.98, 0.61, 0.39
+ 8103 root      20   0   89388  65640   5544 R  96.3  0.4   3:51.42 python snakes-ladders.py
+10086 root      20   0    8868    768    672 S   0.0  0.0   0:00.00 grep load average\|snakes-ladders
+
+top - 08:15:04 up 46 days,  1:29,  2 users,  load average: 0.98, 0.61, 0.39
+ 8103 root      20   0   89388  65640   5544 R 100.0  0.4   3:52.59 python snakes-ladders.py
+10093 root      20   0    8868    776    684 S   0.0  0.0   0:00.00 grep load average\|snakes-ladders
+
+top - 08:15:06 up 46 days,  1:29,  2 users,  load average: 0.98, 0.62, 0.39
+ 8103 root      20   0   89388  65640   5544 R 100.0  0.4   3:53.76 python snakes-ladders.py
+10100 root      20   0    8868    756    660 S   0.0  0.0   0:00.00 grep load average\|snakes-ladders
+
+top - 08:15:07 up 46 days,  1:29,  2 users,  load average: 0.98, 0.62, 0.39
+ 8103 root      20   0   89388  65640   5544 R  96.3  0.4   3:54.92 python snakes-ladders.py
+10110 root      20   0    8868    880    784 S   0.0  0.0   0:00.00 grep load average\|snakes-ladders
+
+top - 08:15:08 up 46 days,  1:29,  2 users,  load average: 0.98, 0.62, 0.39
+ 8103 root      20   0   89388  65640   5544 R  96.3  0.4   3:56.09 python snakes-ladders.py
+10118 root      20   0    8868    888    792 S   0.0  0.0   0:00.00 grep load average\|snakes-ladders
+
+top - 08:15:09 up 46 days,  1:29,  2 users,  load average: 0.98, 0.62, 0.39
+ 8103 root      20   0   89388  65640   5544 R 100.0  0.4   3:57.26 python snakes-ladders.py
+10127 root      20   0    8868    832    740 S   0.0  0.0   0:00.00 grep load average\|snakes-ladders
+
+top - 08:15:10 up 46 days,  1:29,  2 users,  load average: 0.99, 0.62, 0.40
+ 8103 root      20   0   89388  65640   5544 R 100.0  0.4   3:58.43 python snakes-ladders.py
+10134 root      20   0    8868    788    692 S   0.0  0.0   0:00.00 grep load average\|snakes-ladders
+
+top - 08:15:11 up 46 days,  1:29,  2 users,  load average: 0.99, 0.62, 0.40
+ 8103 root      20   0   89388  65640   5544 R  96.4  0.4   3:59.59 python snakes-ladders.py
+10141 root      20   0    8868    760    664 S   0.0  0.0   0:00.00 grep load average\|snakes-ladders
+
+top - 08:15:13 up 46 days,  1:29,  2 users,  load average: 0.99, 0.62, 0.40
+ 8103 root      20   0   89388  65640   5544 R  96.4  0.4   4:00.76 python snakes-ladders.py
+10148 root      20   0    8868    836    740 S   0.0  0.0   0:00.00 grep load average\|snakes-ladders
+
+top - 08:15:14 up 46 days,  1:29,  2 users,  load average: 0.99, 0.62, 0.40
+ 8103 root      20   0   89388  65640   5544 R 100.0  0.4   4:01.93 python snakes-ladders.py
+10159 root      20   0    8868    944    848 S   0.0  0.0   0:00.00 grep load average\|snakes-ladders
+
+top - 08:15:15 up 46 days,  1:29,  2 users,  load average: 0.99, 0.63, 0.40
+ 8103 root      20   0   89388  65640   5544 R 100.0  0.4   4:03.10 python snakes-ladders.py
+10166 root      20   0    8868    744    648 S   0.0  0.0   0:00.00 grep load average\|snakes-ladders
+
+top - 08:15:16 up 46 days,  1:29,  2 users,  load average: 0.99, 0.63, 0.40
+ 8103 root      20   0   89388  65640   5544 R  96.3  0.4   4:04.26 python snakes-ladders.py
+10173 root      20   0    8868    764    672 S   0.0  0.0   0:00.00 grep load average\|snakes-ladders
+
+top - 08:15:17 up 46 days,  1:29,  2 users,  load average: 0.99, 0.63, 0.40
+ 8103 root      20   0   89388  65640   5544 R  96.3  0.4   4:05.43 python snakes-ladders.py
+10180 root      20   0    8868    824    732 S   0.0  0.0   0:00.00 grep load average\|snakes-ladders
+
+top - 08:15:18 up 46 days,  1:29,  2 users,  load average: 0.99, 0.63, 0.40
+ 8103 root      20   0   89388  65640   5544 R 100.0  0.4   4:06.60 python snakes-ladders.py
+10187 root      20   0    8868    784    692 S   0.0  0.0   0:00.00 grep load average\|snakes-ladders
+
+top - 08:15:20 up 46 days,  1:29,  2 users,  load average: 0.99, 0.63, 0.40
+ 8103 root      20   0   89388  65640   5544 R 100.0  0.4   4:07.77 python snakes-ladders.py
+10194 root      20   0    8868    764    668 S   0.0  0.0   0:00.00 grep load average\|snakes-ladders
+
+top - 08:15:21 up 46 days,  1:29,  2 users,  load average: 0.99, 0.64, 0.40
+ 8103 root      20   0   89388  65640   5544 R  96.4  0.4   4:08.93 python snakes-ladders.py
+10205 root      20   0    8868    828    732 S   0.0  0.0   0:00.00 grep load average\|snakes-ladders
+
+top - 08:15:22 up 46 days,  1:29,  2 users,  load average: 0.99, 0.64, 0.40
+ 8103 root      20   0   89388  65640   5544 R  96.2  0.4   4:10.10 python snakes-ladders.py
+10212 root      20   0    8868    764    668 S   0.0  0.0   0:00.00 grep load average\|snakes-ladders
+
+top - 08:15:23 up 46 days,  1:29,  2 users,  load average: 0.99, 0.64, 0.40
+ 8103 root      20   0   89388  65640   5544 R 100.0  0.4   4:11.27 python snakes-ladders.py
+10219 root      20   0    8868    824    732 S   0.0  0.0   0:00.00 grep load average\|snakes-ladders
+
+top - 08:15:24 up 46 days,  1:29,  2 users,  load average: 0.99, 0.64, 0.40
+ 8103 root      20   0   89388  65640   5544 R 100.0  0.4   4:12.44 python snakes-ladders.py
+10226 root      20   0    8868    780    684 S   0.0  0.0   0:00.00 grep load average\|snakes-ladders
+
+top - 08:15:25 up 46 days,  1:29,  2 users,  load average: 0.99, 0.64, 0.41
+ 8103 root      20   0   89388  65640   5544 R  96.3  0.4   4:13.60 python snakes-ladders.py
+10233 root      20   0    8868    832    740 S   0.0  0.0   0:00.00 grep load average\|snakes-ladders
+
+top - 08:15:27 up 46 days,  1:29,  2 users,  load average: 0.99, 0.64, 0.41
+ 8103 root      20   0   89388  65640   5544 R 100.0  0.4   4:14.77 python snakes-ladders.py
+10240 root      20   0    8868    772    676 S   0.0  0.0   0:00.00 grep load average\|snakes-ladders
+
+top - 08:15:28 up 46 days,  1:29,  2 users,  load average: 0.99, 0.64, 0.41
+ 8103 root      20   0   89388  65640   5544 R 100.0  0.4   4:15.94 python snakes-ladders.py
+10251 root      20   0    8868    800    704 S   0.0  0.0   0:00.00 grep load average\|snakes-ladders
+
+top - 08:15:29 up 46 days,  1:29,  2 users,  load average: 0.99, 0.64, 0.41
+ 8103 root      20   0   89388  65640   5544 R 100.0  0.4   4:17.11 python snakes-ladders.py
+10260 root      20   0    8868    884    792 S   0.0  0.0   0:00.00 grep load average\|snakes-ladders
+
+top - 08:15:30 up 46 days,  1:29,  2 users,  load average: 0.99, 0.65, 0.41
+ 8103 root      20   0   89388  65640   5544 R  96.3  0.4   4:18.27 python snakes-ladders.py
+10267 root      20   0    8868    780    684 S   0.0  0.0   0:00.00 grep load average\|snakes-ladders
+
+top - 08:15:31 up 46 days,  1:29,  2 users,  load average: 0.99, 0.65, 0.41
+ 8103 root      20   0   89388  65640   5544 R 100.0  0.4   4:19.44 python snakes-ladders.py
+10274 root      20   0    8868    780    688 S   0.0  0.0   0:00.00 grep load average\|snakes-ladders
+
+top - 08:15:32 up 46 days,  1:29,  2 users,  load average: 0.99, 0.65, 0.41
+ 8103 root      20   0   89388  65640   5544 R 100.0  0.4   4:20.61 python snakes-ladders.py
+10281 root      20   0    8868    828    732 S   0.0  0.0   0:00.00 grep load average\|snakes-ladders
+
+top - 08:15:34 up 46 days,  1:29,  2 users,  load average: 0.99, 0.65, 0.41
+ 8103 root      20   0   89388  65640   5544 R  96.4  0.4   4:21.78 python snakes-ladders.py
+10288 root      20   0    8868    772    680 S   0.0  0.0   0:00.00 grep load average\|snakes-ladders
+
+top - 08:15:35 up 46 days,  1:29,  2 users,  load average: 0.99, 0.65, 0.41
+ 8103 root      20   0   89388  65640   5544 R 100.0  0.4   4:22.95 python snakes-ladders.py
+10299 root      20   0    8868    828    732 S   0.0  0.0   0:00.00 grep load average\|snakes-ladders
+
+top - 08:15:36 up 46 days,  1:29,  2 users,  load average: 0.99, 0.65, 0.41
+ 8103 root      20   0   89388  65640   5544 R 100.0  0.4   4:24.12 python snakes-ladders.py
+10306 root      20   0    8868    832    736 S   0.0  0.0   0:00.00 grep load average\|snakes-ladders
+
+top - 08:15:37 up 46 days,  1:29,  2 users,  load average: 0.99, 0.65, 0.41
+ 8103 root      20   0   89388  65640   5544 R  96.3  0.4   4:25.28 python snakes-ladders.py
+10313 root      20   0    8868    764    668 S   0.0  0.0   0:00.00 grep load average\|snakes-ladders
+
+top - 08:15:38 up 46 days,  1:29,  2 users,  load average: 0.99, 0.65, 0.41
+ 8103 root      20   0   89388  65640   5544 R  96.4  0.4   4:26.45 python snakes-ladders.py
+10320 root      20   0    8868    828    732 S   0.0  0.0   0:00.00 grep load average\|snakes-ladders
+
+top - 08:15:39 up 46 days,  1:29,  2 users,  load average: 0.99, 0.65, 0.41
+ 8103 root      20   0   89388  65640   5544 R 100.0  0.4   4:27.62 python snakes-ladders.py
+10327 root      20   0    8868    884    792 S   0.0  0.0   0:00.00 grep load average\|snakes-ladders
+
+top - 08:15:41 up 46 days,  1:29,  2 users,  load average: 0.99, 0.66, 0.42
+ 8103 root      20   0   89388  65640   5544 R  96.4  0.4   4:28.78 python snakes-ladders.py
+10334 root      20   0    8868    808    712 S   0.0  0.0   0:00.00 grep load average\|snakes-ladders
+
+top - 08:15:42 up 46 days,  1:29,  2 users,  load average: 0.99, 0.66, 0.42
+ 8103 root      20   0   89388  65640   5544 R  96.4  0.4   4:29.95 python snakes-ladders.py
+10345 root      20   0    8868    772    676 S   0.0  0.0   0:00.00 grep load average\|snakes-ladders
+
+top - 08:15:43 up 46 days,  1:29,  2 users,  load average: 0.99, 0.66, 0.42
+ 8103 root      20   0   89388  65640   5544 R 100.0  0.4   4:31.12 python snakes-ladders.py
+10352 root      20   0    8868    792    700 S   0.0  0.0   0:00.00 grep load average\|snakes-ladders
+
+top - 08:15:44 up 46 days,  1:29,  2 users,  load average: 0.99, 0.66, 0.42
+ 8103 root      20   0   89388  65640   5544 R 100.0  0.4   4:32.29 python snakes-ladders.py
+10359 root      20   0    8868    824    728 S   0.0  0.0   0:00.00 grep load average\|snakes-ladders
+
+top - 08:15:45 up 46 days,  1:29,  2 users,  load average: 0.99, 0.67, 0.42
+ 8103 root      20   0   89388  65640   5544 R  96.3  0.4   4:33.45 python snakes-ladders.py
+10366 root      20   0    8868    800    708 S   0.0  0.0   0:00.00 grep load average\|snakes-ladders
+
+top - 08:15:46 up 46 days,  1:29,  2 users,  load average: 0.99, 0.67, 0.42
+ 8103 root      20   0   89388  65640   5544 R  96.4  0.4   4:34.62 python snakes-ladders.py
+10373 root      20   0    8868    776    680 S   0.0  0.0   0:00.00 grep load average\|snakes-ladders
+
+top - 08:15:48 up 46 days,  1:29,  2 users,  load average: 0.99, 0.67, 0.42
+ 8103 root      20   0   89388  65640   5544 R 100.0  0.4   4:35.79 python snakes-ladders.py
+10380 root      20   0    8868    776    684 S   0.0  0.0   0:00.00 grep load average\|snakes-ladders
+
+top - 08:15:49 up 46 days,  1:29,  2 users,  load average: 0.99, 0.67, 0.42
+ 8103 root      20   0   89388  65640   5544 R 100.0  0.4   4:36.96 python snakes-ladders.py
+10393 root      20   0    8868    788    692 S   0.0  0.0   0:00.00 grep load average\|snakes-ladders
