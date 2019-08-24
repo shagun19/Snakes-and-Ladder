@@ -2,7 +2,7 @@
 * [What is snakes and ladders](https://en.wikipedia.org/wiki/Snakes_and_Ladders)
 * Objective: The first player to reach the 100th block wins.
 * Rules of the game:
-  -Each player rolls a dice in her respective turn.
+  * Each player rolls a dice in her respective turn.
 ..-In order to enter the game, one had to roll a six. Untill then you cannot start.
 ..-Upon rolling a six you get another turn to roll. However three simultaneous sixes cancel each other and you skip your turn. Thus valid rolls can be (6,3), (6,6,4) whereas invalid roll is (6,6,6).
 ..-Upon landing up on the foot of a ladder, you get to hop on the higher number where the ladder ends. You get an additional turn as well.
