@@ -10,5 +10,5 @@
   * You can only exit the game when you land on 100th block through the exact count. Example: if you are on 98th block and get a 5 on your dice then you cannot move. You can move by only when you get 1 or 2.
 
 * How to run the script:
-..- ```python snakes-ladders.py <num_players>```
-..- Minimun number of players should be 2, otherwise the program exits.
+ ```python snakes-ladders.py <num_players>```
+  Minimun number of players should be 2, otherwise the program exits.
