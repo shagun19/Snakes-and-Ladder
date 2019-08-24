@@ -11,3 +11,6 @@
 
 * How to run the script:
  ```python snakes-ladders.py <num_players>```
+ 
+* Reference Image of the board
+![a](https://github.com/shagun19/Snakes-and-Ladder/blob/master/snakes-ladder.png)
