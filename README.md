@@ -13,4 +13,4 @@
  ```python snakes-ladders.py <num_players>```
  
 * Reference Image of the board
-![a](https://github.com/shagun19/Snakes-and-Ladder/blob/master/snakes-ladder.png)
+![Origin link: https://www.pinterest.com/pin/295056213063118876/](https://github.com/shagun19/Snakes-and-Ladder/blob/master/snakes-ladder.png)
