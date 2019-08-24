@@ -11,4 +11,3 @@
 
 * How to run the script:
  ```python snakes-ladders.py <num_players>```
- Minimun number of players should be 2, otherwise the program exits.
