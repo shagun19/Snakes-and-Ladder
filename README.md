@@ -12,5 +12,5 @@
 * How to run the script:
  ```python snakes-ladders.py <num_players>```
  
-* Reference Image of the board
+* Reference Image of the board [https://www.pinterest.com/pin/295056213063118876/]
 ![Origin link: https://www.pinterest.com/pin/295056213063118876/](https://github.com/shagun19/Snakes-and-Ladder/blob/master/snakes-ladder.png)
